@@ -5,7 +5,7 @@
 <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/lOGO.png?raw=true"/></div>
 
 # MainProcesses
-The overall operation flow of the game is shown as follows：
+The overall operation flow of the game is shown as follows：(Click on the picture for details)
 <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/minmap.png?raw=true"/></div>
 
 # ProjectFeatures
