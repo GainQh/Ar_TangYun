@@ -13,7 +13,7 @@ The overall operation flow of the game is shown as follows：(Click on the pictu
   <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/shoushi.png?raw=true"/></div>
 - We have also set up more auxiliary functions to help players better understand sugar painting, a traditional Chinese culture, such as identifying cards to show model animations, playing introductory videos, etc., in which the cards are made by us!
   <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/kapian.png?raw=true"/></div>
-  The 3D model pages for identifying cards and displaying them are all made by us, including sugar shop models, sugar painting models and so on.
+  The 3D model pages for identifying cards and displaying them are all made by us, including sugar shop models, sugar painting models and so on.Two of the sugar paintings are of a flower and the mascot of the Beijing Winter Olympics: Ice Dumpling
   <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/MODEL_TANGPU.png?raw=true"/></div>
   <div align=center><img src="https://github.com/GainQh/Ar_TangYun/blob/main/Image/Model_tanghua.png?raw=true"/></div>
 - The front-end UI design of the software was also done by ourselves, we chose the theme colours of traditional Chinese culture and the elements of the Chinese Zodiac as our backdrop.
